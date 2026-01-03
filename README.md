@@ -1,5 +1,7 @@
 # ML EVALUATION METRICS - INTERACTIVE LESSONS
 
+**Version 1.0.0**
+
 Learn ML evaluation metrics by running actual code and seeing real results!
 
 ## Quick Start
